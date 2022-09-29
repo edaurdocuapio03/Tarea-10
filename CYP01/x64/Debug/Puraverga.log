@@ -1,0 +1,7 @@
+﻿  Puraverga.cpp
+C:\Users\52557\source\repos\Puraverga\Puraverga\Puraverga.cpp(4,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\52557\source\repos\Puraverga\Puraverga\Puraverga.cpp(10,11): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\52557\source\repos\Puraverga\Puraverga\Puraverga.cpp(11,11): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\52557\source\repos\Puraverga\Puraverga\Puraverga.cpp(12,15): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\52557\source\repos\Puraverga\Puraverga\Puraverga.cpp(13,15): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  Puraverga.vcxproj -> C:\Users\52557\source\repos\Puraverga\x64\Debug\Puraverga.exe

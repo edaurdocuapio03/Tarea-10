@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{661ca2f8-82f5-4cad-808c-735ad7db8c64}</ProjectGuid>
-    <RootNamespace>CYP02</RootNamespace>
+    <ProjectGuid>{21548627-87e3-4fcd-9e62-7e3aebb48353}</ProjectGuid>
+    <RootNamespace>Puraverga</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CYP02.cpp" />
+    <ClCompile Include="Puraverga.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

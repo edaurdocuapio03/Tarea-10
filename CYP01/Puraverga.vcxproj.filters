@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CYP02.cpp">
+    <ClCompile Include="Puraverga.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
